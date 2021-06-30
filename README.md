@@ -8,12 +8,12 @@ I started to code since I was 16. I liked so much and I got a lot of experience.
 
 ### More about me
 <a href="https://www.linkedin.com/in/eriel-mejias-rodriguez-1928841a0/" target="_blank">
-  <img alt="Linkedin" width="24px" src="https://github.com/cl8dep/cl8dep/blob/master/Assets/Linkedin.svg" />
+  <img alt="Linkedin" width="24px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Linkedin.svg" />
 </a>
 <!--
 <a href="https://twitter.com/<username>" target="_blank">
   <img align="left" alt="Linkedin" width="24px" src="https://github.com/erielmejias99/erielmejias99/blob/master/assets/Twitter.svg" />
 </a>-->
 <a href="mailto:erielmejias99@gmail.com" target="_blank">
-  <img alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/assets/Gmail.svg" />
+  <img alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Gmail.svg" />
 </a>
