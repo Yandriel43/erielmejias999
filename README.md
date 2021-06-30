@@ -4,17 +4,16 @@ I started to code since I was 16. I liked so much and I got a lot of experience.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### More about me
 <a href="https://www.linkedin.com/in/eriel-mejias-rodriguez-1928841a0/" target="_blank">
-  <img align="left" alt="Linkedin" width="24px" src="https://github.com/cl8dep/cl8dep/blob/master/Assets/Linkedin.svg" />
+  <img alt="Linkedin" width="24px" src="https://github.com/cl8dep/cl8dep/blob/master/Assets/Linkedin.svg" />
 </a>
 <!--
 <a href="https://twitter.com/<username>" target="_blank">
-  <img align="left" alt="Linkedin" width="24px" src="https://github.com/erielmejias99/erielmejias99/blob/master/Assets/Twitter.svg" />
+  <img align="left" alt="Linkedin" width="24px" src="https://github.com/erielmejias99/erielmejias99/blob/master/assets/Twitter.svg" />
 </a>-->
 <a href="mailto:erielmejias99@gmail.com" target="_blank">
-  <img align="left" alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/Assets/Gmail.svg" />
+  <img alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/assets/Gmail.svg" />
 </a>
