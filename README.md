@@ -2,10 +2,6 @@
 
 I started to code since I was 16. I liked so much and I got a lot of experience. I joined to the International Collegiate of Programming Contest where I got a lot of knowledge and experience with Algorithms. I am always working on getting more skills on ADA Analysis and Design of Algorithms. Started to Study frameworks for software development purposes, I learn so fast, my hobby is to learn new Things.
 
-- 🔭 I’m currently working on UnDosTres as Full-Stack Developer
-- 🌱 I’m currently learning Golang
-- 💬 Ask me about anything you What... if I do not know I make a research.
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
