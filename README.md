@@ -1,16 +1,24 @@
 ### Hi there 👋
 
+I started to code since I was 16. I liked so much and I got a lot of experience. I joined to the International Collegiate of Programming Contest where I got a lot of knowledge and experience with Algorithms. I am always working on getting more skills on ADA Analysis and Design of Algorithms. Started to Study frameworks for software development purposes, I learn so fast, my hobby is to learn new Things.
+
+- 🔭 I’m currently working on UnDosTres as Full-Stack Developer
+- 🌱 I’m currently learning Golang
+- 💬 Ask me about anything you What... if I do not know I make a research.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### More about me
+<a href="https://www.linkedin.com/in/eriel-mejias-rodriguez-1928841a0/" target="_blank">
+  <img align="left" alt="Linkedin" width="24px" src="https://github.com/cl8dep/cl8dep/blob/master/Assets/Linkedin.svg" />
+</a>
 <!--
-**erielmejias99/erielmejias99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/<username>" target="_blank">
+  <img align="left" alt="Linkedin" width="24px" src="https://github.com/erielmejias99/erielmejias99/blob/master/Assets/Twitter.svg" />
+</a>-->
+<a href="mailto:erielmejias99@gmail.com" target="_blank">
+  <img align="left" alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/Assets/Gmail.svg" />
+</a>
