@@ -4,7 +4,7 @@ I started to code since I was 16. I liked so much and I got a lot of experience.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true&hide=stars,issues,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&lang_count=6)
 
 ### More about me
 <a href="https://www.linkedin.com/in/eriel-mejias-rodriguez-1928841a0/" target="_blank">
