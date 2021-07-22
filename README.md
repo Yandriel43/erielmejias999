@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I started to code since I was 16. I liked so much and I got a lot of experience. I joined to the International Collegiate of Programming Contest where I got a lot of knowledge and experience with Algorithms. I am always working on getting more skills on ADA Analysis and Design of Algorithms. Started to Study frameworks for software development purposes, I learn so fast, my hobby is to learn new Things.
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true&hide=stars,issues,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&langs_count=6)
