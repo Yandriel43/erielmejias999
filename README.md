@@ -5,6 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&langs_count=6)
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=erielmejias99&column=3" alt="ragnarok22" /> </p>
+
 ### More about me
 <a href="https://www.linkedin.com/in/erielmejias99/" target="_blank">
   <img alt="Linkedin" width="24px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Linkedin.svg" />
