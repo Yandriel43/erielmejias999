@@ -2,7 +2,8 @@
 
 ---
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10601367)](https://stackoverflow.com/users/10601367/eriel-mejias) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=erielmejias99"/>|
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10601367)](https://stackoverflow.com/users/10601367/eriel-mejias) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&langs_count=6)
+|
 |---|---|
  
  ---
@@ -35,7 +36,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true&hide=stars,issues,contribs)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&langs_count=6)
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=erielmejias99&column=1" alt="erielmejias99" /> -->
 
