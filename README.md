@@ -39,15 +39,13 @@
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=erielmejias99&column=1" alt="erielmejias99" /> -->
 
-### More about me
 ## Connect with me  
 <div align="center">
- <a href="https://www.linkedin.com/in/erielmejias99/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 <a href="mailto:erielmejias99@gmail.com" target="_blank">
 <img alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Gmail.svg" />
-<img src=https://img.shields.io/badge/gmail-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/erielmejias99/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/erielmejias99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
