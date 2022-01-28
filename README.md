@@ -2,8 +2,7 @@
 
 ---
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10601367)](https://stackoverflow.com/users/10601367/eriel-mejias) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&langs_count=6)
-|
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10601367)](https://stackoverflow.com/users/10601367/eriel-mejias) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Nishant-Bhosale"/>|
 |---|---|
  
  ---
@@ -19,7 +18,7 @@
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
 <!--  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> -->
 <!--  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> -->
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<!--  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /> -->
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -36,19 +35,46 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true&hide=stars,issues,contribs)
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erielmejias99&layout=compact&langs_count=6)
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=erielmejias99&column=1" alt="erielmejias99" /> -->
 
 ### More about me
-<a href="https://www.linkedin.com/in/erielmejias99/" target="_blank">
-  <img alt="Linkedin" width="24px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Linkedin.svg" />
+## Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/erielmejias99/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:erielmejias99@gmail.com" target="_blank">
+<img alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Gmail.svg" />
+<img src=https://img.shields.io/badge/gmail-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/erielmejias99" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ErielMejias" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/10601367/eriel-mejias" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/erielmejias/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <!--
 <a href="https://twitter.com/<username>" target="_blank">
   <img align="left" alt="Linkedin" width="24px" src="https://github.com/erielmejias99/erielmejias99/blob/master/assets/Twitter.svg" />
 </a>
 -->
-<a href="mailto:erielmejias99@gmail.com" target="_blank">
+<!-- <a href="mailto:erielmejias99@gmail.com" target="_blank">
   <img alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Gmail.svg" />
 </a>
+ -->
+<div align="center">
+<img src="https://img.shields.io/github/followers/erielmejias99.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/erielmejias99"></img>
+</div>
