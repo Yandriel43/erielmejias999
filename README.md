@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+---
+
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10601367)](https://stackoverflow.com/users/10601367/eriel-mejias) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=erielmejias99"/>|
+|---|---|
+ 
+ ---
+ 
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=erielmejias99&show_icons=true&count_private=true&hide=stars,issues,contribs)
 -->
