@@ -41,7 +41,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="mailto:erielmejias99@gmail.com" target="_blank">
+<a href="mailto:erielmejias99@gmail.com">
 <img alt="Gmail" width="26px" src="https://github.com/erielmejias99/erielmejias99/blob/master/asset/Gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/erielmejias99/" target="_blank">
