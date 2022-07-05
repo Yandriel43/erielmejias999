@@ -1,9 +1,4 @@
 ### Hi there 👋
-
----
-
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10601367)](https://stackoverflow.com/users/10601367/eriel-mejias) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Nishant-Bhosale"/>|
-|---|---|
  
  ---
 <p align="center">
